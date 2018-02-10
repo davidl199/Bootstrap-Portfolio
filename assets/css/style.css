@@ -11,6 +11,15 @@ body {
     opacity: 0.8;
 }
 
+a:link {
+    text-decoration: none;
+    color: #777;
+}
+
+a:hover {
+    color: blue;
+}
+
 /* #home-section {
     background: url('../img/home.png') no-repeat;
     background-size:cover;
