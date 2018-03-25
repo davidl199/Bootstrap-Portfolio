@@ -72,4 +72,8 @@ a:hover {
     font-size: 12px;
   }
 
+  .profile-image {
+      border-radius: 50px;
+  }
+
   
